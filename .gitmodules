@@ -1,0 +1,9 @@
+[submodule "Madafrique"]
+	path = Madafrique
+	url = https://github.com/mirumee/saleor.git
+[submodule "Madafrique-storefront"]
+	path = Madafrique-storefront
+	url = https://github.com/mirumee/saleor-storefront.git
+[submodule "Madafrique-dashboard"]
+	path = Madafrique-dashboard
+	url = https://github.com/mirumee/saleor-dashboard.git
